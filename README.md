@@ -36,6 +36,7 @@ For running the code, make sure that the following are installed on your local d
 | Tkinter|
 | NumPy|
 | Matplotlib|
+| Seaborn|
 
 # How to use
 1. Clone this repo. <br>
