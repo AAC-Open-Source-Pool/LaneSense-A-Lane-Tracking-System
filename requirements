@@ -1,0 +1,5 @@
+opencv==4.7.0
+tkinter
+seaborn
+matplotlib
+pillow
